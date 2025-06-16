@@ -42,8 +42,8 @@ while True:
         print("Booster nicht gefunden – bitte nochmal versuchen.")
 
     elif auswahl == "2":
-        print("Du willst eine Karte aus dem Gewählten Booster anzeigen? (kommt später)")
-        
+        zeige_karten()
+
     elif auswahl == "3":
         print("Du willst eine neue Karte abharken? (kommt später)")
     elif auswahl == "4":
